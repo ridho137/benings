@@ -1,0 +1,7 @@
+{
+    "host": "database-benings.cqpik7bajw5d.ap-southeast-1.rds.amazonaws.com",
+    "port": 5432,
+    "user": "benings_devel_app",
+    "password": "benings_devel_app30*",
+    "dbname": "benings_devel"
+}
